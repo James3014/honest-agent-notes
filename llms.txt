@@ -1,0 +1,7 @@
+# AI 代理實測筆記（Honest Agent Notes）
+
+> 繁體中文的 AI 代理實測網站。作者 James（滑雪教練、非工程師）用多個 AI 代理做軟體研發，每週發表一篇有出處的量測：模型修 bug 的可靠度、token 成本拆解、審查命中率、量測方法上的錯誤與更正。每篇文章都寫明樣本數與限制。
+
+- 文章列表：https://james3014.github.io/honest-agent-notes/
+- RSS：https://james3014.github.io/honest-agent-notes/feed.xml
+- 關於與網站規則：https://james3014.github.io/honest-agent-notes/about/

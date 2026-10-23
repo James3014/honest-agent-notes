@@ -1,0 +1,23 @@
+title: AI 代理實測筆記
+description: 一個不寫程式的滑雪教練，帶著一群 AI 代理做研發。這裡只寫量過的數字，失敗的也寫。
+author: James
+lang: zh-TW
+url: https://james3014.github.io
+baseurl: /honest-agent-notes
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+permalink: /:year/:month/:title/
+show_excerpts: true
+header_pages:
+  - about.md
+  - subscribe.md
+feed:
+  path: feed.xml
+# 由自動化流程填入；空字串時頁面不載入對應元件
+goatcounter: ""
+buttondown_user: ""
+exclude:
+  - README.md
